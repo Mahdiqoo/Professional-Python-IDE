@@ -7,6 +7,7 @@ A full-featured, desktop Python IDE built with PyQt5 — designed for developers
 This IDE goes far beyond basic text editing. It’s packed with professional tools to streamline your Python development workflow:
 
 🔍 Smart Code Navigation
+
 Code Structure Tree: Automatically parses your code to display classes, functions, imports, constants, and variables in a collapsible tree.
 
 Symbol Quick-Jump: Instantly navigate to any function or class with a dropdown selector.
@@ -14,6 +15,8 @@ Symbol Quick-Jump: Instantly navigate to any function or class with a dropdown s
 Search in Structure: Filter the code tree in real-time to find symbols faster.
 
 Block Highlighting: Click any item in the tree to highlight its entire code block.
+
+Block Replacement: Select a class or def in the left side and right click and click on replace to replace selected block with everything you want.
 
 💻 Advanced Code Editor
 
